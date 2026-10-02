@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entities.CIrcuito&apos; to &apos;Circuito&apos;&#x0D;&#x0A;- Original project: &apos;Formula1&apos;&#x0D;&#x0A;- Original element: &apos;entities.CIrcuito&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Circuito&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CIrcuito&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entities{CIrcuito.java[CIrcuito" matchStrategy="1" name="Circuito" qualified="false" references="true" similarDeclarations="false" stamp="1711059661610" textual="false" version="1.0"/>
+</session>
