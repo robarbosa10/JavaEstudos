@@ -1,4 +1,4 @@
-package Formula1Exercicio;
+Cpackage Formula1Exercicio;
 
 public class Carro {
 	private Equipe equipe;

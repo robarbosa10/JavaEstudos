@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public enum EquipesF1 {
     FERRARI("Scuderia Ferrari", "Italia"),
     MERCEDES("AMG Mercedes", "Alemanha"),
-    REDBUL("RedBull Racing", "Austria");
+    RED_BULL("RedBull Racing", "Austria");
 
     private final String nome;
     private final String pais;

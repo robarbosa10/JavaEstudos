@@ -5,8 +5,12 @@ import f1.Piloto;
 
 public class Main {
     public static void main(String[] args) {
-    p1 = new Piloto("MAX", 10);
 
-        System.out.println();
-        }
+
+
+        Piloto p1 = new Piloto("Max", 28);
+        System.out.println(p1.getNome());
+    }
+
+
     }
